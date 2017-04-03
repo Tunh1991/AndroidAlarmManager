@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <Button
+
+            android:id="@+id/btStopAlarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="stop alarm" />
+
+        <Button
+
+            android:id="@+id/btAddAlarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Alarm"
+            />
+
+
+        <Button
+
+            android:id="@+id/btSetAlarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Set Alarm" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

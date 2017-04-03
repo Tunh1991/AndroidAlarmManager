@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\alarm_clock.png",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\drawable-xxhdpi\\alarm_clock.png"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\more.png",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\drawable-xxhdpi\\more.png"
+    }
+]

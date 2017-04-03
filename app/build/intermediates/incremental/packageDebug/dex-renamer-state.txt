@@ -1,0 +1,7 @@
+#Thu Mar 30 21:29:27 ICT 2017
+base.0=F\:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f6aac134d1cd765a6075c3177b3f543c4e9d732e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d152e27a62a30fb7181579fa3d68979618d947ac\\classes.dex
+base.1=F\:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d152e27a62a30fb7181579fa3d68979618d947ac
+file.0=F\:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f6aac134d1cd765a6075c3177b3f543c4e9d732e\\classes.dex

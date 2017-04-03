@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/cbAlarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/tvAlarm"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_toRightOf="@+id/cbAlarm"
+
+        android:text="Test123 " />
+
+    <TextView
+        android:id="@+id/tvWeek"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@id/tvAlarm"
+        android:layout_toRightOf="@+id/cbAlarm"
+        android:text="nguyenh utut
+        " />
+
+    <ImageView
+        android:id="@+id/ivAlarm"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@+id/imMore"
+        android:background="@drawable/alarm_clock" />
+
+    <ImageView
+        android:id="@+id/imMore"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/more" />
+
+
+</RelativeLayout>

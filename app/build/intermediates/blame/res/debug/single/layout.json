@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title_clock.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\custom_title_clock.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_clock_dialog.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\custom_clock_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_display.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\alarm_display.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_alarm.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\activity_set_alarm.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_item3.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\custom_item3.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_list_view.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\custom_list_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_item1.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\custom_item1.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footerview.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\footerview.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_output.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\activity_output.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_item2.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\src\\main\\res\\layout\\custom_item2.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidProgramming\\AndroidProject\\Alarm2003\\AndroidAlarmManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    }
+]

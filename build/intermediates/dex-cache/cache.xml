@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProgramming\AndroidProject\Alarm2003\AndroidAlarmManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="F:\AndroidProgramming\AndroidProject\Alarm2003\AndroidAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-18.0.0_6460ee06e79e44d5e0a080a678f6fc3d04dc3a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProgramming\AndroidProject\Alarm2003\AndroidAlarmManager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8465f45a7a1e54a6870e81ab88ec6cc61414099e">
+        <dex dex="F:\AndroidProgramming\AndroidProject\Alarm2003\AndroidAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f6aac134d1cd765a6075c3177b3f543c4e9d732e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AndroidProgramming\AndroidProject\Alarm2003\AndroidAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f15a0bfe038d28bcbabcd17b131818a88627e3f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProgramming\AndroidProject\Alarm2003\AndroidAlarmManager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b19515b1f508e9e7532c38852347e60554b61d69">
+        <dex dex="F:\AndroidProgramming\AndroidProject\Alarm2003\AndroidAlarmManager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d152e27a62a30fb7181579fa3d68979618d947ac\classes.dex" />
+    </item>
+
+</items>
